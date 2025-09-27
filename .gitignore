@@ -26,3 +26,7 @@ dist/
 *.so
 out*/
 **/run_*/
+
+.venv
+/venv
+venv
